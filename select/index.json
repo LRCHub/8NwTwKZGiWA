@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ボキは最強",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-14T03:04:37.373724Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボキは最強",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_ボキは最強_NEE.txt"
+    }
+  ]
+}
